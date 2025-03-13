@@ -1,0 +1,34 @@
+header {
+font-family: "Roboto", sans-serif;
+background-color: #1F2937;
+color: white;
+margin: auto;
+
+}
+
+div#logo {
+    display: flex;
+    justify-content: flex-start;  
+    
+}
+
+.top-links {
+    display: flex;
+    justify-content: space-between;  
+
+}
+
+
+.first{
+    font-family: "Roboto", sans-serif;
+    background-color: #1F2937;
+    color: white;
+    width: auto;
+    height: 200px;  
+    padding: 50px;
+    margin: 0 0 0 0;
+ 
+}
+
+
+
